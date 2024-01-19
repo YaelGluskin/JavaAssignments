@@ -54,10 +54,6 @@ Ensure you have the following dependencies installed:
 
 Provide clear instructions on how to use each program. Include any input formats, expected outputs, and notable features.
 
-## Contributing
-
-If you would like to contribute to the project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+Feel free to learn and enjoy the code.
