@@ -1,5 +1,4 @@
 # JavaAssignments
-# Project Title
 
 A collection of Java programs developed as assignments for the Open University's advanced Java language course.
 
