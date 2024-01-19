@@ -12,7 +12,6 @@ A collection of Java programs developed as assignments for the Open University's
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
